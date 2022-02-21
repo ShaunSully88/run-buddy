@@ -196,7 +196,9 @@ section {
 }
 
 .trainer img {
-    width: 35%;
+    width: 25%;
+    height: 50%;
+    padding:
     float: left;
 }
 
